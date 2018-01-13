@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/gamesukimanIRS/PMchair_Fork_of_others
+branches:
+- master
+projects:
+  PMchair_Fork_of_others:
+    path: ""
+...
