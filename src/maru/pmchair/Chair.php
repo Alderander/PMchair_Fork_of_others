@@ -68,3 +68,4 @@ class Chair extends Position{
 			$this->despawnFrom($player);
 		}
 	}
+}
